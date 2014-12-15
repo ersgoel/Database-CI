@@ -1,4 +1,4 @@
 Database-CI
 ===========
 
-This is a test Database for Continous Integration.
+This is a test Database for Continuous Integration.
